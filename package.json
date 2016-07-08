@@ -1,0 +1,30 @@
+{
+    "author": "psolis00@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "myfitnesspal",
+    "pebble": {
+        "capabilities": [
+            "configurable",
+            "health"
+        ],
+        "displayName": "myfitnesspal",
+        "enableMultiJS": true,
+        "messageKeys": {},
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "1f00c0dc-4ed5-432f-990a-39dd6486f692",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
